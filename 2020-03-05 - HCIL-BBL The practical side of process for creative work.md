@@ -1,0 +1,54 @@
+- # Opening:
+    - When you think about your ideal state of process, what metaphors come to mind? What do you see?
+- # Foundational principles:
+    - Assumed context: sustained open-ended problem solving (like research, capstone projects)
+        - Have to formulate problems, adjust (not necessarily a clear path all the time)
+    - Goal state is achieving flow: like surfing: https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness?language=en 
+        - Contra being a "productivity machine"
+    - Tinkering, not overhauling
+    - Investing, long-term thinking
+        - Compound interest, over the long term
+- # Practicalities, by zones of "productivity":
+    - **Vision**: How do you know what you should do?
+        - Issue: plans and situated action
+        - GTD for academics https://rtalbert.org/gtd/
+            - Pillars: 
+                - getting stuff out of your head, capturing things quickly as they come up so you don't clog your head
+                - regular reviews at Multiple levels: city-level, street-level, and moment-level
+            - Similar: Lists in a Google Doc - print off every once in awhile + review every few days - need to print out every once in awhile, to think spatially about it
+            - Keep it simple - make it match the structure of the task you care about
+            - Context-specific lists
+        - Delay in saying yes
+            - Related: No committee
+        - Separate by life goals and daily activities
+        - Plan by reachability
+            - Time how long things have taken
+            - Associate time with value
+                - Toggl
+                - RescueTime
+        - Other stuff
+            - Bullet Journaling
+            - https://complice.co/
+            - Mindfulness / meditation
+    - **Habit / Rhythm**: How do you make your system robust to ebbs and flows in energy / time / motivation?
+        - The principle of least resistance: - http://matt.might.net/articles/least-resistance-weight-loss/
+            - Similar: general principle of habit formation and behavior change - incentives and environments > individual willpower
+                - hidden brain NPR : https://www.npr.org/2019/12/11/787160734/creatures-of-habit-how-habits-shape-who-we-are-and-who-we-become
+                - why efforts to reform science practice have failed: https://corelab.blog/2020/03/05/science-for-science-reformers/
+        - Methods of blocking stuff so you don't have to decide
+            - screen time on phones
+            - cold turkey
+            - self control (the app, not your willpower!)
+            - FocusBooster
+        - Accountability
+            - With friends
+            - Or external, like with beeminder: pay up if you don't meet your goals
+            - Forest - when you want to stay focused you stay away from your phone and the tree grows - over a long term the forest grows
+        - Rituals
+    - **Energy**: How do you ensure that you have energy that is matched to the tasks you need accomplish?
+        - Sleep
+        - Find when you are most "productive"
+        - Eat well
+        - Exercise
+        - Therapy / counseling
+            - More generally self-care
